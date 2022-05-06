@@ -20,17 +20,6 @@ The rest of the pages are static with not a whole lot of difference in terms of 
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/Coluthia-Software/coluthia-software.github.io/issues/new) here on GitHub.
 
-## Creator
-
-[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
-
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
-
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
-
 ## Image Attribution
 
 The images use [undraw](https://undraw.co/), some of them have had some minor modifications and others are derivative works are under the same licence.
