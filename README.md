@@ -1,39 +1,24 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
+# Coluthia Software Website
 
-[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+This is site based on [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
 
-![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
+Landing Page is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
+You can get for Landing Page Template code [here](https://github.com/tailwindtoolbox/Landing-Page)
 
-## Getting Started
+## About the Coluthia Site changes
 
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
-* Fork the repo
+The same basic layout is used as the landing page, only some changes to fonts, colours and unnecessary things removed.
 
-## Using the Template
+The site uses [cookiethough](https://cookiethough.dev/) for the cookie notice for Google Analytics.
 
-The template is just a HTML file using a full CDN hosted Tailwind CSS file.
+IodineJS and AlphineJS are used for dynamic form validation on the contact page. EmailJS is used for actually sending the email via the contact form. This form itself is custom.
 
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
-
-## Sites created using this template
-
-* [Pilotmail.io](https://pilotmail.io)
-* [Routepath.app](https://routepath.app)
-* [LedgerSight.com](https://ledgersight.com)
-* [AnonAddy.com](https://anonaddy.com)
-* [MentorCV.com](https://mentorcv.com)
-* [MakerMetrics.co](https://makermetrics.co)
-* [Nodewood.com](https://nodewood.com)
-* [X-Wing AI](https://xwing.app)
-* [Scholarship Spy](https://scholarshipspy.com)
+The rest of the pages are static with not a whole lot of difference in terms of functionality.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Landing-Page/issues/new) here on GitHub.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/Coluthia-Software/coluthia-software.github.io/issues/new) here on GitHub.
 
 ## Creator
 
@@ -48,10 +33,8 @@ Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) fr
 
 ## Image Attribution
 
-[Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)
-
-Free for personal and commercial purpose with attribution
+The images use [undraw](https://undraw.co/), some of them have had some minor modifications and others are derivative works are under the same licence.
 
 ## Copyright and License
 
-Copyright 2018-2020 Astrava.Solutions Ltd. Code released under the MIT license.
+Copyright 2021-2022 Coluthia Software Limited. Code released under the MIT license.
