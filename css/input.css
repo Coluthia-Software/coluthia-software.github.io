@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient {
+    background: linear-gradient(120deg, #42ada3 0%, #56e6d7 100%);
+}
+.flip-horizontally {
+    transform: scaleX(-1);
+}
+
+[x-cloak] {
+    display: none !important;
+}
