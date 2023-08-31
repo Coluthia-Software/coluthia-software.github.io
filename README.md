@@ -26,4 +26,4 @@ The images use [undraw](https://undraw.co/), some of them have had some minor mo
 
 ## Copyright and License
 
-Copyright 2021-2022 Coluthia Software Limited. Code released under the MIT license.
+Copyright 2021-2023 Coluthia Software Limited. Code released under the MIT license.
